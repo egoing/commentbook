@@ -1,0 +1,22 @@
+{
+  "name": "commentbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egoing/commentbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egoing/commentbook/issues"
+  },
+  "homepage": "https://github.com/egoing/commentbook#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
